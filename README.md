@@ -70,7 +70,7 @@ Stills mode allows you to use the full-frame of the sensor, but has a max framer
 There's no preview output shown on the raspi screen.
 
 This should run indefinately. 
-ctrl-c closes mjpeg streamer and raspicam gracefully.
+ctrl-c closes mjpeg streamer and raspicam gracefully. 
 
 
 Fork of http://sourceforge.net/projects/mjpg-streamer/
